@@ -1,6 +1,4 @@
-{
-	"posts": [{
-			"title": "Congratulations!",
+{"posts":[{"title": "Congratulations!",
 			"body": "You made it to the end of the course!\r\n\r\nNext we'll be building the REST API!",
 			"image": "https://raw.githubusercontent.com/mitchtabian/Blog-Images/master/digital_ocean.png",
 			"user": "Sally"
